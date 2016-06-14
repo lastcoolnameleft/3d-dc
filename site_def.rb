@@ -1,3 +1,4 @@
+// Modified portions of this file are Copyright 2016 Yahoo. Licensed under the MIT license.
 
 def get_host()
     return { 'coord' => { 'x_offset' => 0, 'y_offset' => 0, 'z_offset' => 0 }, 'u_height' => 1, 'depth' => 50, 'name' => 'blank' }
